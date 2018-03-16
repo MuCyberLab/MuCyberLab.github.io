@@ -41,5 +41,5 @@ links:
     url: /contact/
 
 # Exclude my node related stuff
-include: ["_pages"]
+include: ["_pages","_ihe"]
 exclude: ['package.json', 'src', 'node_modules','README.md','LICENSE']
