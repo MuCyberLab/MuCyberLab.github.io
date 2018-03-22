@@ -38,6 +38,7 @@ links:
     url: /ihe/
   - title: CTF
     url: https://ctf.mucyber.org
+    external: true
   - title: Contact
     url: /contact/
 
