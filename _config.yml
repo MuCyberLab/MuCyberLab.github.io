@@ -2,7 +2,7 @@
 title: Mu Cyber
 email: mucyberlab@gmail.com
 description: A group of people that learn cybersecurity together.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.mucyber.org" # the base hostname & protocol for your site
 google_analytics: "UA-111260853-1"
 
@@ -25,7 +25,6 @@ permalink: blog/:title-D:year:month:day.html
 # Plugins
 gems:
   - jemoji
-  - jekyll-redirect-from
 
 # Links to include in menu navigation
 # For external links add external: true
@@ -37,7 +36,8 @@ links:
   - title: İHE
     url: /ihe/
   - title: CTF
-    url: /ctf/
+    url: ctf.mucyber.org
+    external: true
   - title: Contact
     url: /contact/
 
