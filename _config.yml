@@ -1,5 +1,5 @@
 # Site Settings
-title: Mu Cyber
+title: Mu-Cyber
 email: mucyberlab@gmail.com
 description: A group of people that learn cybersecurity together.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -7,7 +7,7 @@ url: "https://www.mucyber.org" # the base hostname & protocol for your site
 google_analytics: "UA-111260853-1"
 
 # User Settings
-username: Mu Cyber
+username: Mu-Cyber
 user_description: A group of people that learn cybersecurity together.
 disqus_username: MuCyberLab
 
